@@ -1,0 +1,5 @@
+1;Ruiz;Jesus;0;346.23
+2;Diaz;Belen;1;234.43
+3;Holgado;Fernando;1;253.93
+4;Brown;Carlos;0;72.36
+5;Tre;Pepin;1;63.28
