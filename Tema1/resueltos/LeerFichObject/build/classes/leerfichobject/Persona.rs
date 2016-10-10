@@ -1,0 +1,1 @@
+escribirfichobject.Persona
